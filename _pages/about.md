@@ -55,4 +55,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.07 - 2023.08*, [Lorem](Shanghai SUNWIN Bus Corporation), China.
+- *2023.07 - 2023.08*, Shanghai Sunwin Bus Corporation, China.
